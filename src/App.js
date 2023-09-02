@@ -17,10 +17,14 @@ export default function App() {
           >
             open-sourced on GitHub
           </a>{" "}
-          {/* and{" "} */}
-          {/* <a href="#" target="_blank" rel="noopener noreferrer">
+          and{" "}
+          <a
+            href="https://main--harmonious-paletas-cc7a50.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
-          </a> */}
+          </a>
         </footer>
       </div>
     </div>
